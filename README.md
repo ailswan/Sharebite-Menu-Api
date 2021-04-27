@@ -14,7 +14,7 @@ $ npm install
 >*connect Mysql*
 ```
 connect Mysql db in the document : SHAREBITE-BACKEND/db/index.js 
-start the Mysql in local computer
+start the Mysql in local terminal
 example Mysql data sql command is in : SHAREBITE-BACKEND/drawSQL.sql
 ```
 >*Start the server*
