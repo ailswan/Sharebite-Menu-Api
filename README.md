@@ -24,7 +24,7 @@ npm start
 ##  2. Three entities CRUD
 >*Section API CRUD*
 
-url:http://localhost:3000/section
+url:http://localhost:3000/section/:section_id
 ```
 **GET**
 Query Params:
@@ -64,7 +64,7 @@ localhost:3000/section?section_id="2"
 
 >*Item API CRUD*
 
-url:http://localhost:3000/item
+url:http://localhost:3000/item/:item_id
 ```
 **GET**
 example of Query Params:
@@ -111,7 +111,7 @@ localhost:3000/section?section_id="2"
 ```
 >*Modifiers API CRUD*
 
-url:http://localhost:3000/modifiers
+url:http://localhost:3000/modifiers/:modifiers_id
 ```
 **GET**
 example of Query Params:
