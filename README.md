@@ -4,9 +4,9 @@ This backend api was built by myself following the requirements from Sharebite. 
 # Table of Contents 
   >*Start Server*
   
-  >*Tech-stack*
+  >*Three entities CRUD*
   
-  >*API endpoints*
+  >*Other two API endpoints*
   
  
 ##  1. Running the server
