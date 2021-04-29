@@ -1,5 +1,5 @@
 # Sharebite-Menu-Api
-This backend api was built by myself following the requirements from HOWL. It took about 1.5 hours. The primary focus was on using MySql and Javascript ES6 to build the Sharebite-Menu-Api.
+This backend api was built by myself following the requirements from Sharebite. It took about 1.5 hours. The primary focus was on using MySql and Javascript ES6 to build the Sharebite-Menu-Api.
 
 # Table of Contents 
   >*Start Server*
