@@ -3,8 +3,11 @@ This backend api was built by myself following the requirements from Sharebite. 
 
 # Table of Contents 
   >*Start Server*
+  
   >*Tech-stack*
+  
   >*API endpoints*
+  
  
 ##  1. Running the server
 >*install npm packages*
